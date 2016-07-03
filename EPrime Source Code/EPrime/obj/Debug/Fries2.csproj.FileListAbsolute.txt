@@ -1,0 +1,10 @@
+c:\users\edwin\documents\visual studio 2015\Projects\Fries2\Fries2\bin\Debug\Fries2.exe.config
+c:\users\edwin\documents\visual studio 2015\Projects\Fries2\Fries2\bin\Debug\Fries2.exe
+c:\users\edwin\documents\visual studio 2015\Projects\Fries2\Fries2\bin\Debug\Fries2.pdb
+c:\users\edwin\documents\visual studio 2015\Projects\Fries2\Fries2\obj\Debug\Fries2.csprojResolveAssemblyReference.cache
+c:\users\edwin\documents\visual studio 2015\Projects\Fries2\Fries2\obj\Debug\Fries2.Form1.resources
+c:\users\edwin\documents\visual studio 2015\Projects\Fries2\Fries2\obj\Debug\Fries2.Properties.Resources.resources
+c:\users\edwin\documents\visual studio 2015\Projects\Fries2\Fries2\obj\Debug\Fries2.csproj.GenerateResource.Cache
+c:\users\edwin\documents\visual studio 2015\Projects\Fries2\Fries2\obj\Debug\Fries2.exe
+c:\users\edwin\documents\visual studio 2015\Projects\Fries2\Fries2\obj\Debug\Fries2.pdb
+C:\Users\Edwin\documents\visual studio 2015\Projects\Fries2\Fries2\bin\Debug\MySql.Data.dll

@@ -1,0 +1,1 @@
+server=eprime.duckdns.org;database=eprime;userid=admin;password=admin123;

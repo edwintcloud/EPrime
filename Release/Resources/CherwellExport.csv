@@ -1,0 +1,638 @@
+﻿Service,Category,Subcategory,"Incident Type"
+15K,15K,Incident,Incident
+15K,15K,"Service Request","Service Request"
+Applications,"Active Directory Sync Tool",Error,Incident
+Applications,Admissions,Error,Incident
+Applications,Admissions,Update,"Service Request"
+Applications,"Cherwell Service Manager","Add/Change Report","Service Request"
+Applications,"Cherwell Service Manager","Add/Change Security Groups","Service Request"
+Applications,"Cherwell Service Manager","Add/Change Team Membership","Service Request"
+Applications,"Cherwell Service Manager","Change Business Process Automation","Service Request"
+Applications,"Cherwell Service Manager","Change Service/Category/Sub-Category","Service Request"
+Applications,"Cherwell Service Manager","Function not working",Incident
+Applications,"Cherwell Service Manager","New Business Object","Service Request"
+Applications,"Cherwell Service Manager","New Business Process Automation","Service Request"
+Applications,"Cherwell Service Manager","New Feature","Service Request"
+Applications,"Cherwell Service Manager","Other Issue",Incident
+Applications,"Cherwell Service Manager","Other Request","Service Request"
+Applications,"Cherwell Service Manager","Update Business Object","Service Request"
+Applications,"ChipsNet (Employee Portal)","Access Issue",Incident
+Applications,"ChipsNet (Employee Portal)","Content Change / Add","Service Request"
+Applications,"ChipsNet (Employee Portal)","Content Error",Incident
+Applications,"ChipsNet (Employee Portal)","New Access","Service Request"
+Applications,Class,Academic,Incident
+Applications,Class,Financial,Incident
+Applications,Database,"Access Issue",Incident
+Applications,Database,"Access Request","Service Request"
+Applications,Database,"Backup / Restore / Recover Request","Service Request"
+Applications,Database,"Create New","Service Request"
+Applications,Database,"Other Issue",Incident
+Applications,Database,"Other Request","Service Request"
+Applications,Database,"Performance Tuning","Service Request"
+Applications,"Lead Routing",Issue,Incident
+Applications,"Lead Routing",Request,"Service Request"
+Applications,"RCAC Application / Enrollment Agreement",Issue,Incident
+Applications,"RCAC Application / Enrollment Agreement",Request,"Service Request"
+Applications,Salesforce,"Account Access Issue",Incident
+Applications,Salesforce,"Account Setup Request","Service Request"
+Applications,Salesforce,"Other Issue",Incident
+Applications,Salesforce,"Other Request","Service Request"
+Applications,"Schedule Confirmation","Not able to confirm",Incident
+Applications,"Schedule Confirmation","Page Error",Incident
+Applications,"Sharepoint - Internal","Access Issue",Incident
+Applications,"Sharepoint - Internal","Content Change / Add","Service Request"
+Applications,"Sharepoint - Internal","Content Error",Incident
+Applications,"Sharepoint - Internal","New Access","Service Request"
+Applications,"Sharepoint - Internal","New Page","Service Request"
+Applications,"Sharepoint - Internal","Page Error",Incident
+Applications,"Sharepoint - Student Portal","Access Issue",Incident
+Applications,"Sharepoint - Student Portal","Content Change / Add","Service Request"
+Applications,"Sharepoint - Student Portal","Content Error",Incident
+Applications,"Sharepoint - Student Portal","New Access","Service Request"
+Applications,"Sharepoint - Student Portal","Page Error",Incident
+Applications,Solomon,"Access Issue",Incident
+Applications,Solomon,Other,Incident
+Applications,STEP,"Access Issue",Incident
+Applications,STEP,"Content Error",Incident
+Applications,"Student Portal","Access Issue",Incident
+Applications,"Student Portal","Brainfuse / Tutoring","Service Request"
+Applications,"Student Portal","Content Change / Add","Service Request"
+Applications,"Student Portal","Content Error",Incident
+Applications,"Student Portal","New Access","Service Request"
+Applications,"Student Portal",Other,Incident
+Applications,"Student Portal","Page Error",Incident
+Applications,"Wiley Application",Issue,Incident
+Applications,"Wiley Application","Service Request","Service Request"
+CampusVue,Academic,"Activity / Letter",Incident
+CampusVue,Academic,"Attendance LDA / DOD",Incident
+CampusVue,Academic,"Campus to Campus Transfer","Service Request"
+CampusVue,Academic,"Final / Other Grade Issue",Incident
+CampusVue,Academic,"GPA Error",Incident
+CampusVue,Academic,"Other Academic Issue",Incident
+CampusVue,Academic,"Schedule / Course Re-Instatement","Service Request"
+CampusVue,Academic,"Status Correction / Reversal",Incident
+CampusVue,Academic,"Status Issue - Other",Incident
+CampusVue,Academic,"Transcript Correction",Incident
+CampusVue,Academic,"Wrong Campus / Program",Incident
+CampusVue,Admissions,"Data Sheet/Enrollment Agreement","Service Request"
+CampusVue,Admissions,"Enrollment Documents","Service Request"
+CampusVue,Admissions,Letters/Emails,"Service Request"
+CampusVue,Admissions,Other,"Service Request"
+CampusVue,Admissions,Reports,"Service Request"
+CampusVue,Admissions,"Student Master Issue",Incident
+CampusVue,"Change Request","New Activity","Service Request"
+CampusVue,"Change Request","New Billing Method","Service Request"
+CampusVue,"Change Request","New Delivery Method","Service Request"
+CampusVue,"Change Request","New Fund Source","Service Request"
+CampusVue,"Change Request","New Student Group","Service Request"
+CampusVue,"Change Request","Other Change Request","Service Request"
+CampusVue,"Change Request","Report - Modification","Service Request"
+CampusVue,"Change Request","Report - New","Service Request"
+CampusVue,Configuration,"Agency Addition","Service Request"
+CampusVue,Configuration,"College Addition","Service Request"
+CampusVue,Configuration,"High School Addition","Service Request"
+CampusVue,Configuration,"New Term Addition","Service Request"
+CampusVue,Configuration,"Other Service Request","Service Request"
+CampusVue,"DPA / Schedule / Program","Blank Degree Plan Audit (DPA) Folder",Incident
+CampusVue,"DPA / Schedule / Program","Blank Schedule Folder",Incident
+CampusVue,"DPA / Schedule / Program",Catalog,Incident
+CampusVue,"DPA / Schedule / Program","Course Discrepancies / Missing Courses",Incident
+CampusVue,"DPA / Schedule / Program","Other Issue",Incident
+CampusVue,"DPA / Schedule / Program","Program Version - Activated",Incident
+CampusVue,"DPA / Schedule / Program","Program Version - Missing",Incident
+CampusVue,"DPA / Schedule / Program","Re-entry Courses Missing",Incident
+CampusVue,"Duplicate Record","Merge Request","Service Request"
+CampusVue,"Duplicate Record",Other,"Service Request"
+CampusVue,"Error Message",Academic,Incident
+CampusVue,"Error Message",Financial,Incident
+CampusVue,"Error Message",Other,Incident
+CampusVue,"Error Message","Outlook Client",Incident
+CampusVue,"Error Message",SchoolDocs,Incident
+CampusVue,"Faculty Portal","No Courses Listed",Incident
+CampusVue,"Faculty Portal","Other Portal Issue",Incident
+CampusVue,"Faculty Portal","Unable to connect / Login - Faculty",Incident
+CampusVue,"Faculty Portal","Unable to see students",Incident
+CampusVue,"Financial Services","Adjustment to Reports","Service Request"
+CampusVue,"Financial Services","Billing Prep/Testing",Incident
+CampusVue,"Financial Services","Global Exception",Incident
+CampusVue,"Financial Services","Locked Student Accounts",Incident
+CampusVue,"Financial Services","Open/Close Term","Service Request"
+CampusVue,"Financial Services","Other Financial Issue",Incident
+CampusVue,"Financial Services","Other Service Request","Service Request"
+CampusVue,"Financial Services","Permissions to Fund Sources","Service Request"
+CampusVue,"Financial Services","Transaction Adjustment",Incident
+CampusVue,"Financial Services","What Report to Use","Service Request"
+CampusVue,Integration,"Attendance Not Importing",Incident
+CampusVue,Integration,"Final Grades Not Importing",Incident
+CampusVue,"Outlook Add-In Client","CampusVue Tab Missing",Incident
+CampusVue,"Outlook Add-In Client","Need Client Installation File Installed",Incident
+CampusVue,"Outlook Add-In Client","Other Issue",Incident
+CampusVue,Reporting,"Incorrect Report",Incident
+CampusVue,Reporting,"Other Report Issue",Incident
+CampusVue,Reporting,"Report Not Pulling",Incident
+CampusVue,"RFC Request",Academic,"Service Request"
+CampusVue,"RFC Request",Financial,"Service Request"
+CampusVue,"RFC Request",Reporting,"Service Request"
+CampusVue,"Schedule Confirmation",CampusVueAPI,Incident
+CampusVue,"Schedule Confirmation",Email,Incident
+CampusVue,"Schedule Confirmation",General,Incident
+CampusVue,"Schedule Confirmation","Student Unable to Confirm Schedule",Incident
+CampusVue,"Schedule Confirmation","Student Unable to See Schedule",Incident
+CampusVue,"Schedule Confirmation",Validation,Incident
+CampusVue,SchoolDocs,"Add Document Type","Service Request"
+CampusVue,SchoolDocs,"Delete Document",Incident
+CampusVue,SchoolDocs,"Other Issue",Incident
+CampusVue,SchoolDocs,"Other Request","Service Request"
+CampusVue,SchoolDocs,"Refile Document",Incident
+CampusVue,SchoolDocs,"Unable to Access SchoolDocs",Incident
+CampusVue,"Student Account Center",Incident,Incident
+CampusVue,"Student Account Center","Service Request","Service Request"
+CampusVue,Training,Requests,"Service Request"
+CampusVue,"User Account","New User Account - CampusVue","Service Request"
+CampusVue,"User Account","New User Account - SchoolDocs","Service Request"
+CampusVue,"User Account","Other Service Request","Service Request"
+CampusVue,"User Account","Permission Change - Academic","Service Request"
+CampusVue,"User Account","Permission Change - Financial","Service Request"
+CampusVue,"User Account","Permission Change - SchoolDocs","Service Request"
+CampusVue,"User Account","Unable to Login / Locked Out - Campus Staff",Incident
+"Contact Administration","Call Transfer","Call Transfer","Service Request"
+"Contact Administration","Campus Info","Campus Info","Service Request"
+"Contact Administration",Enrollment,"Drop Request","Service Request"
+"Contact Administration",Enrollment,Enrollment,"Service Request"
+"Contact Administration",Enrollment,Orientation,"Service Request"
+"Contact Administration",Enrollment,"Schedule Change","Service Request"
+"Contact Administration","Student/Faculty Concerns",Attendance,Incident
+"Contact Administration","Student/Faculty Concerns","Grade Concerns","Service Request"
+"Contact Administration","Student/Faculty Concerns","Instructor/Student Issue",Incident
+"Contact Administration","Update Personal Information","Name Change","Service Request"
+"Contact Administration","Update Personal Information","Shipping Address","Service Request"
+"IT Field Support","Account Creation Request","Active Directory","Service Request"
+"IT Field Support","Account Creation Request","Adobe Creative Cloud","Service Request"
+"IT Field Support","Account Creation Request",Box.com,"Service Request"
+"IT Field Support","Account Creation Request",Telecom,"Service Request"
+"IT Field Support","Application - New Request","Adobe Acrobat Pro","Service Request"
+"IT Field Support","Application - New Request","Adobe Connect","Service Request"
+"IT Field Support","Application - New Request","Adobe Creative Cloud","Service Request"
+"IT Field Support","Application - New Request","Adobe Creative Suite","Service Request"
+"IT Field Support","Application - New Request","Adobe Flash Player","Service Request"
+"IT Field Support","Application - New Request","CampusVue / Citrix","Service Request"
+"IT Field Support","Application - New Request",Camtasia,"Service Request"
+"IT Field Support","Application - New Request",Carousel,"Service Request"
+"IT Field Support","Application - New Request","Cisco VPN","Service Request"
+"IT Field Support","Application - New Request",ClearSlide,"Service Request"
+"IT Field Support","Application - New Request",Java,"Service Request"
+"IT Field Support","Application - New Request","Live Person","Service Request"
+"IT Field Support","Application - New Request","Metrics Site","Service Request"
+"IT Field Support","Application - New Request","Microsoft Access","Service Request"
+"IT Field Support","Application - New Request","Microsoft Excel","Service Request"
+"IT Field Support","Application - New Request","Microsoft Lync Instant Messaging","Service Request"
+"IT Field Support","Application - New Request","Microsoft OneNote","Service Request"
+"IT Field Support","Application - New Request","Microsoft Outlook","Service Request"
+"IT Field Support","Application - New Request","Microsoft PowerPoint","Service Request"
+"IT Field Support","Application - New Request","Microsoft Publisher","Service Request"
+"IT Field Support","Application - New Request","Microsoft SQL Server Management Studio","Service Request"
+"IT Field Support","Application - New Request","Microsoft Visual Studio","Service Request"
+"IT Field Support","Application - New Request","Microsoft Word","Service Request"
+"IT Field Support","Application - New Request",SharePoint,"Service Request"
+"IT Field Support","Application - New Request","SMS Messenger","Service Request"
+"IT Field Support","Application - New Request",Snag-IT,"Service Request"
+"IT Field Support","Application - New Request",Solomon,"Service Request"
+"IT Field Support","Application - New Request","Web Browser - Chrome","Service Request"
+"IT Field Support","Application - New Request","Web Browser - Firefox","Service Request"
+"IT Field Support","Application - New Request","Web Browser - Internet Explorer","Service Request"
+"IT Field Support","Application - New Request","zOther - Describe App in Case Comments","Service Request"
+"IT Field Support","Application - Problem/Issue","Adobe Acrobat Pro",Incident
+"IT Field Support","Application - Problem/Issue","Adobe Connect",Incident
+"IT Field Support","Application - Problem/Issue","Adobe Creative Cloud",Incident
+"IT Field Support","Application - Problem/Issue","Adobe Creative Suite",Incident
+"IT Field Support","Application - Problem/Issue","Adobe Flash Player",Incident
+"IT Field Support","Application - Problem/Issue","CampusVue / Citrix",Incident
+"IT Field Support","Application - Problem/Issue",Camtasia,Incident
+"IT Field Support","Application - Problem/Issue",Carousel,Incident
+"IT Field Support","Application - Problem/Issue","Cisco VPN",Incident
+"IT Field Support","Application - Problem/Issue",ClearSlide,Incident
+"IT Field Support","Application - Problem/Issue",Java,Incident
+"IT Field Support","Application - Problem/Issue","Live Person",Incident
+"IT Field Support","Application - Problem/Issue","Metrics Site",Incident
+"IT Field Support","Application - Problem/Issue","Microsoft Access",Incident
+"IT Field Support","Application - Problem/Issue","Microsoft Excel",Incident
+"IT Field Support","Application - Problem/Issue","Microsoft Lync Instant Messaging",Incident
+"IT Field Support","Application - Problem/Issue","Microsoft OneNote",Incident
+"IT Field Support","Application - Problem/Issue","Microsoft Outlook",Incident
+"IT Field Support","Application - Problem/Issue","Microsoft PowerPoint",Incident
+"IT Field Support","Application - Problem/Issue","Microsoft Publisher",Incident
+"IT Field Support","Application - Problem/Issue","Microsoft SQL Server Management Studio",Incident
+"IT Field Support","Application - Problem/Issue","Microsoft Visual Studio",Incident
+"IT Field Support","Application - Problem/Issue","Microsoft Word",Incident
+"IT Field Support","Application - Problem/Issue",SharePoint,Incident
+"IT Field Support","Application - Problem/Issue","SMS Messenger",Incident
+"IT Field Support","Application - Problem/Issue",Snag-IT,Incident
+"IT Field Support","Application - Problem/Issue",Solomon,Incident
+"IT Field Support","Application - Problem/Issue","Web Browser - Chrome",Incident
+"IT Field Support","Application - Problem/Issue","Web Browser - Firefox",Incident
+"IT Field Support","Application - Problem/Issue","Web Browser - Internet Explorer",Incident
+"IT Field Support","Application - Problem/Issue","zOther - Describe App in Case Comments",Incident
+"IT Field Support","Computer - New Request",Battery,"Service Request"
+"IT Field Support","Computer - New Request",Desktop,"Service Request"
+"IT Field Support","Computer - New Request","Docking Station","Service Request"
+"IT Field Support","Computer - New Request","Keyboard / Mouse","Service Request"
+"IT Field Support","Computer - New Request",Laptop,"Service Request"
+"IT Field Support","Computer - New Request",Memory,"Service Request"
+"IT Field Support","Computer - New Request",Monitor,"Service Request"
+"IT Field Support","Computer - New Request","USB Headset","Service Request"
+"IT Field Support","Computer - Problem/Issue",Apple,Incident
+"IT Field Support","Computer - Problem/Issue",Battery,Incident
+"IT Field Support","Computer - Problem/Issue",Desktop,Incident
+"IT Field Support","Computer - Problem/Issue","Docking Station",Incident
+"IT Field Support","Computer - Problem/Issue","Keyboard / Mouse",Incident
+"IT Field Support","Computer - Problem/Issue",Laptop,Incident
+"IT Field Support","Computer - Problem/Issue",Monitor,Incident
+"IT Field Support","Computer - Problem/Issue","USB Headset",Incident
+"IT Field Support","Computer - Problem/Issue","Virus / Malware",Incident
+"IT Field Support",Email,"Calendar Sharing Issues",Incident
+"IT Field Support",Email,"Conference Room Calendar Issue",Incident
+"IT Field Support",Email,"Distribution List Modification","Service Request"
+"IT Field Support",Email,"Mobile Device Email New Setup","Service Request"
+"IT Field Support",Email,"Mobile Device Email Not Working",Incident
+"IT Field Support",Email,"Modify Email Account Information","Service Request"
+"IT Field Support",Email,"New Conference Room Calendar","Service Request"
+"IT Field Support",Email,"New Distribution List","Service Request"
+"IT Field Support",Email,"Shared Mailbox Issue",Incident
+"IT Field Support",Email,"Shared Mailbox Request","Service Request"
+"IT Field Support",Email,"Spam / Junk Email",Incident
+"IT Field Support",Email,"Webmail Access Issues",Incident
+"IT Field Support","New Hire Request",Collegis,"Service Request"
+"IT Field Support","New Hire Request","Rasmussen Adjunct Faculty","Service Request"
+"IT Field Support","New Hire Request","Rasmussen College","Service Request"
+"IT Field Support","New Hire Request",Wiley,"Service Request"
+"IT Field Support","Office Equipment / Other","Campus Digital Sign Assistance",Incident
+"IT Field Support","Office Equipment / Other","Fax Not Working",Incident
+"IT Field Support","Office Equipment / Other","Fax Toner Replacement","Service Request"
+"IT Field Support","Office Equipment / Other","HVAC Issue",Incident
+"IT Field Support","Office Equipment / Other","Mailing Machine Not Working",Incident
+"IT Field Support","Office Equipment / Other","Meeting Room AV Not Working",Incident
+"IT Field Support","Office Equipment / Other","Meeting Room New AV Setup","Service Request"
+"IT Field Support","Office Equipment / Other","Salto Lock Not Working",Incident
+"IT Field Support","Office Equipment / Other","UPS Maintenance",Incident
+"IT Field Support","Office Equipment / Other","Video Conferencing / Web Meeting Coordination","Service Request"
+"IT Field Support","Printer / Copier","Copier Hardware Issue",Incident
+"IT Field Support","Printer / Copier","Copier Scanner Directory Update","Service Request"
+"IT Field Support","Printer / Copier","Print Quality Degraded",Incident
+"IT Field Support","Printer / Copier","Printer / Copier Share Add","Service Request"
+"IT Field Support","Printer / Copier","Printer Hardware Issue",Incident
+"IT Field Support","Printer / Copier","Toner Replacement","Service Request"
+"IT Field Support","Security Access","Access to an employee's mailbox","Service Request"
+"IT Field Support","Security Access","Access to an employee's shared drive","Service Request"
+"IT Field Support","Security Access","Access to an employee's voicemail","Service Request"
+"IT Field Support","Security Access","Employee Separation / Deactivation of Accounts","Service Request"
+"IT Field Support","Security Access","Legal Hold","Service Request"
+"IT Field Support","Security Access","Server File Share Access","Service Request"
+"IT Field Support",Telephone,"Add Additional Phone Line","Service Request"
+"IT Field Support",Telephone,"Desktop Phone Headset Not Working",Incident
+"IT Field Support",Telephone,"Desktop Phone Headset Request","Service Request"
+"IT Field Support",Telephone,"Desktop Phone Issue",Incident
+"IT Field Support",Telephone,"IP Communicator Application Install","Service Request"
+"IT Field Support",Telephone,"IP Communicator Not Working",Incident
+"IT Field Support",Telephone,"New Desk Phone Request","Service Request"
+"IT Field Support",Telephone,"Voicemail Not Working",Incident
+"IT Field Support",Telephone,"Voicemail Password Reset","Service Request"
+"IT Field Support",Telephone,"Voicemail Provision New","Service Request"
+"IT Infrastructure - Network","Network Services","Internet/URL Issue",Incident
+"IT Infrastructure - Network","Network Services","Internet/URL Request","Service Request"
+"IT Infrastructure - Network","Network Services","Network Access Issue",Incident
+"IT Infrastructure - Network","Network Services","Network Access Request","Service Request"
+"IT Infrastructure - Network","Network Services","VPN Issue",Incident
+"IT Infrastructure - Network","Network Services","VPN Request","Service Request"
+"IT Infrastructure - Network","Network Services","Wireless Issue",Incident
+"IT Infrastructure - Network","Network Services","Wireless Request","Service Request"
+"IT Infrastructure - Network","Voice Services","Campus Connect Video Issue",Incident
+"IT Infrastructure - Network","Voice Services","Campus Connect Video Request","Service Request"
+"IT Infrastructure - Network","Voice Services","CUCM - Phones/Gateways Issue",Incident
+"IT Infrastructure - Network","Voice Services","CUCM - Phones/Gateways Request","Service Request"
+"IT Infrastructure - Network","Voice Services","MeetingOne Audio Conference Issue",Incident
+"IT Infrastructure - Network","Voice Services","MeetingOne Audio Conference Request","Service Request"
+"IT Infrastructure - Network","Voice Services","NICE - Call Recording Issue",Incident
+"IT Infrastructure - Network","Voice Services","NICE - Call Recording Request","Service Request"
+"IT Infrastructure - Network","Voice Services","UCCX - Call Center Issue",Incident
+"IT Infrastructure - Network","Voice Services","UCCX - Call Center Request","Service Request"
+"IT Infrastructure - Network","Voice Services","UCXN - Voicemail Issue",Incident
+"IT Infrastructure - Network","Voice Services","UCXN - Voicemail Request","Service Request"
+"IT Infrastructure - Network","Voice Services","VeraSmart - Call Detail Records Issue",Incident
+"IT Infrastructure - Network","Voice Services","VeraSmart - Call Detail Records Request","Service Request"
+"IT Infrastructure - Network","Voice Services","VPI - Call Recording/Call Center Reporting Issue",Incident
+"IT Infrastructure - Network","Voice Services","VPI - Call Recording/Call Center Reporting Request","Service Request"
+"IT Infrastructure - Network","Voice Services","Webex Issue",Incident
+"IT Infrastructure - Network","Voice Services","Webex Request","Service Request"
+"IT Infrastructure - Network","Voice Services","xMedius - Fax Services Issue",Incident
+"IT Infrastructure - Network","Voice Services","xMedius - Fax Services Request","Service Request"
+"IT Infrastructure - Server","Application Tirage",ACS,Incident
+"IT Infrastructure - Server","Application Tirage","Active Directory",Incident
+"IT Infrastructure - Server","Application Tirage",Admissions,Incident
+"IT Infrastructure - Server","Application Tirage","Analytics databases 2012",Incident
+"IT Infrastructure - Server","Application Tirage",Angel,Incident
+"IT Infrastructure - Server","Application Tirage","Angel - Rasmussen",Incident
+"IT Infrastructure - Server","Application Tirage","Angel - Wiley",Incident
+"IT Infrastructure - Server","Application Tirage","Angel Archive",Incident
+"IT Infrastructure - Server","Application Tirage","ANGEL DTK",Incident
+"IT Infrastructure - Server","Application Tirage","Angel Reporting",Incident
+"IT Infrastructure - Server","Application Tirage",Angel?,Incident
+"IT Infrastructure - Server","Application Tirage","Authoring Tool - Rasmussen",Incident
+"IT Infrastructure - Server","Application Tirage","Automated Outreach",Incident
+"IT Infrastructure - Server","Application Tirage","Backup server",Incident
+"IT Infrastructure - Server","Application Tirage","Ben & Collegis Platform",Incident
+"IT Infrastructure - Server","Application Tirage",BI3,Incident
+"IT Infrastructure - Server","Application Tirage",BIPADEV,Incident
+"IT Infrastructure - Server","Application Tirage","Blackboard Learn",Incident
+"IT Infrastructure - Server","Application Tirage","Bomgar Applicance",Incident
+"IT Infrastructure - Server","Application Tirage",Bridge/Synapse,Incident
+"IT Infrastructure - Server","Application Tirage","Campus Carousel",Incident
+"IT Infrastructure - Server","Application Tirage",CampusVue,Incident
+"IT Infrastructure - Server","Application Tirage",CEC,Incident
+"IT Infrastructure - Server","Application Tirage",Cherwell,Incident
+"IT Infrastructure - Server","Application Tirage",Chipsnet,Incident
+"IT Infrastructure - Server","Application Tirage",CLASS,Incident
+"IT Infrastructure - Server","Application Tirage",CMDB,Incident
+"IT Infrastructure - Server","Application Tirage",CRE,Incident
+"IT Infrastructure - Server","Application Tirage",Datawarehouse,Incident
+"IT Infrastructure - Server","Application Tirage","Denison Project",Incident
+"IT Infrastructure - Server","Application Tirage",Drupal,Incident
+"IT Infrastructure - Server","Application Tirage",ECAS,Incident
+"IT Infrastructure - Server","Application Tirage",ELK,Incident
+"IT Infrastructure - Server","Application Tirage","EMC Avamar",Incident
+"IT Infrastructure - Server","Application Tirage","EMC ESRS",Incident
+"IT Infrastructure - Server","Application Tirage","Engage - Rasmussen",Incident
+"IT Infrastructure - Server","Application Tirage","Engage Wiley",Incident
+"IT Infrastructure - Server","Application Tirage","Engage Wiley - American University",Incident
+"IT Infrastructure - Server","Application Tirage","Engage Wiley - Anna Maria College",Incident
+"IT Infrastructure - Server","Application Tirage","Engage Wiley - Antioch University",Incident
+"IT Infrastructure - Server","Application Tirage","Engage Wiley - Benedictine University",Incident
+"IT Infrastructure - Server","Application Tirage","Engage Wiley - Butler University",Incident
+"IT Infrastructure - Server","Application Tirage","Engage Wiley - Catholic University of America",Incident
+"IT Infrastructure - Server","Application Tirage","Engage Wiley - Concordia University of Nebraska",Incident
+"IT Infrastructure - Server","Application Tirage","Engage Wiley - Discovery",Incident
+"IT Infrastructure - Server","Application Tirage","Engage Wiley - Georgetown University",Incident
+"IT Infrastructure - Server","Application Tirage","Engage Wiley - Internal, multi",Incident
+"IT Infrastructure - Server","Application Tirage","Engage Wiley - Lubbock Christian University",Incident
+"IT Infrastructure - Server","Application Tirage","Engage Wiley - Manhattan College",Incident
+"IT Infrastructure - Server","Application Tirage","Engage Wiley - Memcache",Incident
+"IT Infrastructure - Server","Application Tirage","Engage Wiley - Mongodb",Incident
+"IT Infrastructure - Server","Application Tirage","Engage Wiley - Multiparter",Incident
+"IT Infrastructure - Server","Application Tirage","Engage Wiley - MySQL &NFS",Incident
+"IT Infrastructure - Server","Application Tirage","Engage Wiley - NonStudentPaid",Incident
+"IT Infrastructure - Server","Application Tirage","Engage Wiley - Notre Dame de Namur University",Incident
+"IT Infrastructure - Server","Application Tirage","Engage Wiley - Our Lady of the Lake University",Incident
+"IT Infrastructure - Server","Application Tirage","Engage Wiley - Purdue University",Incident
+"IT Infrastructure - Server","Application Tirage","Engage Wiley - Queens University",Incident
+"IT Infrastructure - Server","Application Tirage","Engage Wiley - Scranton University",Incident
+"IT Infrastructure - Server","Application Tirage","Engage Wiley - University of Florida",Incident
+"IT Infrastructure - Server","Application Tirage","Engage Wiley - University of St. Mary",Incident
+"IT Infrastructure - Server","Application Tirage","Engage Wiley - University of Texas - Mccombs",Incident
+"IT Infrastructure - Server","Application Tirage","Engage Wiley - Utica University",Incident
+"IT Infrastructure - Server","Application Tirage","Engage Wiley - Widener University",Incident
+"IT Infrastructure - Server","Application Tirage","Engage Wiley - Wiley Internal",Incident
+"IT Infrastructure - Server","Application Tirage","Engage Wiley Test",Incident
+"IT Infrastructure - Server","Application Tirage","EPiServer - Cabrini",Incident
+"IT Infrastructure - Server","Application Tirage",FlexPrint,Incident
+"IT Infrastructure - Server","Application Tirage","HP SIM",Incident
+"IT Infrastructure - Server","Application Tirage","JAMF Casper Suite",Incident
+"IT Infrastructure - Server","Application Tirage",Kaltura,Incident
+"IT Infrastructure - Server","Application Tirage","Lead Routing Application",Incident
+"IT Infrastructure - Server","Application Tirage","Legacy Applications",Incident
+"IT Infrastructure - Server","Application Tirage","LMS Admin",Incident
+"IT Infrastructure - Server","Application Tirage","LMS Content",Incident
+"IT Infrastructure - Server","Application Tirage","LMS Content - Collegis",Incident
+"IT Infrastructure - Server","Application Tirage",MCAM,Incident
+"IT Infrastructure - Server","Application Tirage",Microsites,Incident
+"IT Infrastructure - Server","Application Tirage","Microsoft Dynamics SL",Incident
+"IT Infrastructure - Server","Application Tirage","Microsoft Exchange",Incident
+"IT Infrastructure - Server","Application Tirage","Microsoft Lync Server",Incident
+"IT Infrastructure - Server","Application Tirage","Microsoft SCCM",Incident
+"IT Infrastructure - Server","Application Tirage","Microsoft Sharepoint",Incident
+"IT Infrastructure - Server","Application Tirage","Multiple Applications",Incident
+"IT Infrastructure - Server","Application Tirage","Multiple Applications?",Incident
+"IT Infrastructure - Server","Application Tirage",MyCourseLabs,Incident
+"IT Infrastructure - Server","Application Tirage","MyCourseLabs - Rasmussen?",Incident
+"IT Infrastructure - Server","Application Tirage",Nagios,Incident
+"IT Infrastructure - Server","Application Tirage","Nagios 4 64 Bit",Incident
+"IT Infrastructure - Server","Application Tirage","New Hire Form - Wiley",Incident
+"IT Infrastructure - Server","Application Tirage",Nice,Incident
+"IT Infrastructure - Server","Application Tirage","Postgres Enterprise Manager",Incident
+"IT Infrastructure - Server","Application Tirage","Prod Student app",Incident
+"IT Infrastructure - Server","Application Tirage","Rasmussen Ready",Incident
+"IT Infrastructure - Server","Application Tirage","Redhat Satellite",Incident
+"IT Infrastructure - Server","Application Tirage",Salesforce,Incident
+"IT Infrastructure - Server","Application Tirage",Salto,Incident
+"IT Infrastructure - Server","Application Tirage","Schedule Confirmation",Incident
+"IT Infrastructure - Server","Application Tirage",SchoolDocs,Incident
+"IT Infrastructure - Server","Application Tirage",Scorecard,Incident
+"IT Infrastructure - Server","Application Tirage","Script Applications",Incident
+"IT Infrastructure - Server","Application Tirage",Security,Incident
+"IT Infrastructure - Server","Application Tirage","Server Team Utility",Incident
+"IT Infrastructure - Server","Application Tirage",SFTP,Incident
+"IT Infrastructure - Server","Application Tirage","SFTP - Wiley",Incident
+"IT Infrastructure - Server","Application Tirage","SiteCore - WebCMS",Incident
+"IT Infrastructure - Server","Application Tirage",SOCVue,Incident
+"IT Infrastructure - Server","Application Tirage","Solomon - Deltak",Incident
+"IT Infrastructure - Server","Application Tirage",Spotlight,Incident
+"IT Infrastructure - Server","Application Tirage","SQL Dev",Incident
+"IT Infrastructure - Server","Application Tirage","SQL Reporting Services",Incident
+"IT Infrastructure - Server","Application Tirage","SQL Server Integration Services",Incident
+"IT Infrastructure - Server","Application Tirage","SRM Walk-in App",Incident
+"IT Infrastructure - Server","Application Tirage",SRSS,Incident
+"IT Infrastructure - Server","Application Tirage",SSIS,Incident
+"IT Infrastructure - Server","Application Tirage","SSIS - Deltak?",Incident
+"IT Infrastructure - Server","Application Tirage","SSIS - Rasmussen",Incident
+"IT Infrastructure - Server","Application Tirage",STEP,Incident
+"IT Infrastructure - Server","Application Tirage","Synapse (Bridge)",Incident
+"IT Infrastructure - Server","Application Tirage","System Center Configuration Manager",Incident
+"IT Infrastructure - Server","Application Tirage",TalentWise,Incident
+"IT Infrastructure - Server","Application Tirage","Team Foundation Server",Incident
+"IT Infrastructure - Server","Application Tirage","Test / Replacement for devsqp01",Incident
+"IT Infrastructure - Server","Application Tirage",Transcripts,Incident
+"IT Infrastructure - Server","Application Tirage","URL Redirector?",Incident
+"IT Infrastructure - Server","Application Tirage","User Acceptance Testing",Incident
+"IT Infrastructure - Server","Application Tirage",Utility,Incident
+"IT Infrastructure - Server","Application Tirage",vCenter,Incident
+"IT Infrastructure - Server","Application Tirage","Visual dBase",Incident
+"IT Infrastructure - Server","Application Tirage","vMax Management",Incident
+"IT Infrastructure - Server","Application Tirage",Warehouse,Incident
+"IT Infrastructure - Server","Application Tirage",WIKI,Incident
+"IT Infrastructure - Server","Application Tirage","Wiley Training Requistion Form",Incident
+"IT Infrastructure - Server","Application Tirage","WordPress - Cabrini",Incident
+"IT Infrastructure - Server","Application Tirage",Xmedius,Incident
+"IT Infrastructure - Server","Backup and Restore","Backup Failure",Incident
+"IT Infrastructure - Server","Backup and Restore","Backup Request","Service Request"
+"IT Infrastructure - Server","Backup and Restore","Restore Request","Service Request"
+"IT Infrastructure - Server",DNS,"Add New","Service Request"
+"IT Infrastructure - Server",DNS,"Modify Existing","Service Request"
+"IT Infrastructure - Server",DNS,"Remove Existing","Service Request"
+"IT Infrastructure - Server",Monitoring,"Modify existing monitoring check","Service Request"
+"IT Infrastructure - Server",Monitoring,"New monitoring request","Service Request"
+"IT Infrastructure - Server",Monitoring,"Remove monitoring check","Service Request"
+"IT Infrastructure - Server",Server,"Decommision server","Service Request"
+"IT Infrastructure - Server",Server,"New server request","Service Request"
+"IT Infrastructure - Server",Server,"Resource Add - CPU","Service Request"
+"IT Infrastructure - Server",Server,"Resource Add - Memory","Service Request"
+"IT Infrastructure - Server",Server,"Resource Add - Storage","Service Request"
+"IT Infrastructure - Server",Server,"Server Access","Service Request"
+"Learning System Support",Account,"Block Request","Service Request"
+"Learning System Support",Account,"Credentials Question","Service Request"
+"Learning System Support",Account,"Enrollment Incorrect/Missing",Incident
+"Learning System Support",Account,"No Account","Service Request"
+"Learning System Support",Account,"Non-Student Enrollment Request","Service Request"
+"Learning System Support",Account,"Password Reset",Incident
+"Learning System Support","Course Content","(Comptetency Course)","Service Request"
+"Learning System Support","Course Content","Broken Link",Incident
+"Learning System Support","Course Content","Content Change Request","Service Request"
+"Learning System Support","Course Content","Content Incorrect/Missing",Incident
+"Learning System Support","Course Content","Course Clone Request","Service Request"
+"Learning System Support","Course Content","Course Message Issue",Incident
+"Learning System Support","Course Content","Course Message Report Request","Service Request"
+"Learning System Support","Course Content","Course Update","Service Request"
+"Learning System Support","Course Content","Discussion Forum Issue",Incident
+"Learning System Support","Course Content","Discussion Forum Revision","Service Request"
+"Learning System Support","Course Content","Drop Box Issue",Incident
+"Learning System Support","Course Content","Lecture Revision","Service Request"
+"Learning System Support","Course Content","Partner Course Issue",Incident
+"Learning System Support","Course Content","Quiz/Exam Issue",Incident
+"Learning System Support","Course Content","Quiz/Exam Revision","Service Request"
+"Learning System Support","Course Content","Syllabus Adjustment","Service Request"
+"Learning System Support","Course Content","Syllabus Issue",Incident
+"Learning System Support","Course Content","Text Issue",Incident
+"Learning System Support","Course Content","Video Error",Incident
+"Learning System Support","Course Content","Virtual Lab issue",Incident
+"Learning System Support","Course Content","Written Assignment Revision","Service Request"
+"Learning System Support",Email,"Course Mail",Incident
+"Learning System Support",Email,"Course Notifications",Incident
+"Learning System Support",Gradebook,"Calculation Error",Incident
+"Learning System Support",Gradebook,Creating,Incident
+"Learning System Support",Gradebook,Deleting,Incident
+"Learning System Support",Gradebook,Editing,Incident
+"Learning System Support",Gradebook,Exporting,Incident
+"Learning System Support",Gradebook,Missing,Incident
+"Learning System Support","Kaltura MediaSpace","Instructor Assistance",Incident
+"Learning System Support","Kaltura MediaSpace","Log In Assistance",Incident
+"Learning System Support","LMS System","Exception Error",Incident
+"Learning System Support","LMS System","HTTP Error",Incident
+"Learning System Support","LMS System","Platform Performance",Incident
+"Learning System Support","LMS System","System Down",Incident
+"Learning System Support",Navigation,"Error Accessing",Incident
+"Learning System Support",Navigation,General,"Service Request"
+"Learning System Support","Online Meeting Software","Access Issue",Incident
+"Learning System Support","Online Meeting Software","Latency Issue",Incident
+"Learning System Support","Online Meeting Software","Meeting Setup Issue",Incident
+"Learning System Support","Online Meeting Software","New Account Request","Service Request"
+"Learning System Support","Online Meeting Software","Recording issue",Incident
+"Learning System Support",Submissions,"Archive Retrieval","Service Request"
+"Learning System Support",Submissions,"Discussion Board",Incident
+"Learning System Support",Submissions,"Submission Error",Incident
+"Learning System Support",Submissions,Uploading,Incident
+"Learning System Support",Submissions,z_Arch-ve-Escalation...,"Service Request"
+"Learning System Support",Unsupported,"Unsupported Issue",Incident
+Marketing,"Access Issues","Marketing Portal","Service Request"
+Marketing,"Access Issues","Student Portal","Service Request"
+Marketing,"Content Changes","Marketing Portal","Service Request"
+Marketing,"Content Changes",Rasmussen.edu,"Service Request"
+Marketing,"Content Changes","Student Portal","Service Request"
+Marketing,"Marketing Issue","Submit Incident",Incident
+Marketing,"Marketing Request","Service Request","Service Request"
+Marketing,Other,"Other Issue",Incident
+Marketing,Other,"Other Request","Service Request"
+Marketing,"Student Email","Opt Out","Service Request"
+Materials,"Access Code / Link","Initial Tutorial","Service Request"
+Materials,"Access Code / Link","Library / Ebscohost","Service Request"
+Materials,"Access Code / Link","No Link/Code Availabile",Incident
+Materials,"Access Code / Link","Reissue Link/Code","Service Request"
+Materials,"Account Access","Credentials Question","Service Request"
+Materials,"Account Access","No Account","Service Request"
+Materials,"Account Access","Password Reset",Incident
+Materials,"Download Assistance","Error Accessing",Incident
+Materials,"Download Assistance","Initial Tutorial","Service Request"
+Materials,"General Navigation","Error Accessing",Incident
+Materials,"General Navigation","Initial Tutorial","Service Request"
+Materials,Incorrect/Incomplete,Exchanges,"Service Request"
+Materials,Incorrect/Incomplete,"Missing / Never Received",Incident
+Materials,Incorrect/Incomplete,"Not Received / Missing",Incident
+Materials,Incorrect/Incomplete,"Re-Issue Shipping Label","Service Request"
+Materials,Incorrect/Incomplete,Return,"Service Request"
+Materials,Incorrect/Incomplete,Wrong,Incident
+Procurement,Order,"USB Headset","Service Request"
+Reports,Access,Issue,Incident
+Reports,Access,New,"Service Request"
+Reports,Report,Accuracy,Incident
+Reports,Report,"General Errors",Incident
+Reports,Report,"New Report","Service Request"
+Software,Install,"Errors, etc",Incident
+Software,"Navigation / Usage","Navigation / Usage","Service Request"
+Software,Troubleshoot,Troubleshoot,Incident
+"Wiley_Contact Administration","Call Transfer","Transfer Call","Service Request"
+"Wiley_Contact Administration",Enrollment,"Change Schedule","Service Request"
+"Wiley_Contact Administration",Enrollment,Drop,"Service Request"
+"Wiley_Contact Administration",Enrollment,"Enrollment Request","Service Request"
+"Wiley_Contact Administration",Enrollment,"Orientation Request","Service Request"
+"Wiley_Contact Administration","Student/Faculty Concerns","Attendance Problem",Incident
+"Wiley_Contact Administration","Student/Faculty Concerns","Grade Concern","Service Request"
+"Wiley_Contact Administration","Student/Faculty Concerns","Instructor/Student Problem",Incident
+"Wiley_Contact Administration","Update Personal Information","Change Name","Service Request"
+"Wiley_Learning System Support",Account,"Credential Question","Service Request"
+"Wiley_Learning System Support",Account,"Enrollment Missing/Incorrect",Incident
+"Wiley_Learning System Support",Account,"Need Account","Service Request"
+"Wiley_Learning System Support",Account,"Reset Password",Incident
+"Wiley_Learning System Support","Course Content","Change Request","Service Request"
+"Wiley_Learning System Support","Course Content","Clone Course Request","Service Request"
+"Wiley_Learning System Support","Course Content","Content Missing/Incorrect",Incident
+"Wiley_Learning System Support","Course Content","Discussion Forum Change","Service Request"
+"Wiley_Learning System Support","Course Content","Discussion Forum Problem",Incident
+"Wiley_Learning System Support","Course Content","Drop Box Problem",Incident
+"Wiley_Learning System Support","Course Content","Lecture Change","Service Request"
+"Wiley_Learning System Support","Course Content","Link Broken",Incident
+"Wiley_Learning System Support","Course Content","Message Issue",Incident
+"Wiley_Learning System Support","Course Content","Message Report Request","Service Request"
+"Wiley_Learning System Support","Course Content","Quiz/Exam Change","Service Request"
+"Wiley_Learning System Support","Course Content","Quiz/Exam Problem",Incident
+"Wiley_Learning System Support","Course Content","Syllabus Change","Service Request"
+"Wiley_Learning System Support","Course Content","Syllabus Problem",Incident
+"Wiley_Learning System Support","Course Content","Text Problem",Incident
+"Wiley_Learning System Support","Course Content","Video Problem",Incident
+"Wiley_Learning System Support","Course Content","Virtual Lab Problem",Incident
+"Wiley_Learning System Support","Course Content","Written Assignment Change","Service Request"
+"Wiley_Learning System Support",Email,"Course eMail",Incident
+"Wiley_Learning System Support",Email,"Course Notification",Incident
+"Wiley_Learning System Support",Gradebook,"Calculation Problem",Incident
+"Wiley_Learning System Support",Gradebook,Changing,Incident
+"Wiley_Learning System Support",Gradebook,"Creating New",Incident
+"Wiley_Learning System Support",Gradebook,Export,Incident
+"Wiley_Learning System Support",Gradebook,Missing-,Incident
+"Wiley_Learning System Support",Gradebook,Removal,Incident
+"Wiley_Learning System Support","LMS System","Down System",Incident
+"Wiley_Learning System Support","LMS System","Error - Exception",Incident
+"Wiley_Learning System Support","LMS System","Error - HTTP",Incident
+"Wiley_Learning System Support","LMS System","Performance - Platform",Incident
+"Wiley_Learning System Support",Navigation,"Access Error",Incident
+"Wiley_Learning System Support","Online Meeting Software","Access Problem",Incident
+"Wiley_Learning System Support","Online Meeting Software","Latency Problem",Incident
+"Wiley_Learning System Support","Online Meeting Software","Meeting Setup Problem",Incident
+"Wiley_Learning System Support","Online Meeting Software","New Account","Service Request"
+"Wiley_Learning System Support","Online Meeting Software","Recording Problem",Incident
+"Wiley_Learning System Support","Online Meeting Software",Wiley,Incident
+"Wiley_Learning System Support",Submissions,"Discussion Board Problem",Incident
+"Wiley_Learning System Support",Submissions,"Retrieve Archive","Service Request"
+"Wiley_Learning System Support",Submissions,"Submission Problem",Incident
+"Wiley_Learning System Support",Submissions,"Uploading Problem",Incident
+Wiley_Materials,"Access Code / Link","No code/link availabile",Incident
+Wiley_Materials,"Access Code / Link","Reissue code/link","Service Request"
+Wiley_Materials,"Access Code / Link",Tutorial,"Service Request"
+Wiley_Materials,"Account Access","Credential Question","Service Request"
+Wiley_Materials,"Account Access","Need Account","Service Request"
+Wiley_Materials,"Account Access","Reset Password",Incident
+Wiley_Materials,"Download Assistance","Access Error",Incident
+Wiley_Materials,"Download Assistance",Tutorial,"Service Request"
+Wiley_Materials,"General Navigation","Access Error",Incident
+Wiley_Materials,"General Navigation",Tutorial,"Service Request"
+Wiley_Materials,Incorrect/Incomplete,Exchange,"Service Request"
+Wiley_Materials,Incorrect/Incomplete,"Missing / Not Received",Incident
+Wiley_Materials,Incorrect/Incomplete,"Never Received / Missing",Incident
+Wiley_Materials,Incorrect/Incomplete,Returns,"Service Request"
+Wiley_Materials,Incorrect/Incomplete,"Shipping Label - re-Issue","Service Request"
+Wiley_Materials,Incorrect/Incomplete,"Wrong Item",Incident
+

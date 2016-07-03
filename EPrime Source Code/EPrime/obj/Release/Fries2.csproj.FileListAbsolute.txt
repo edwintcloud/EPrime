@@ -1,0 +1,10 @@
+C:\Users\Edwin\documents\visual studio 2015\Projects\Fries2\Fries2\bin\Release\Fries2.exe.config
+C:\Users\Edwin\documents\visual studio 2015\Projects\Fries2\Fries2\bin\Release\Fries2.exe
+C:\Users\Edwin\documents\visual studio 2015\Projects\Fries2\Fries2\bin\Release\Fries2.pdb
+C:\Users\Edwin\documents\visual studio 2015\Projects\Fries2\Fries2\bin\Release\MySql.Data.dll
+C:\Users\Edwin\documents\visual studio 2015\Projects\Fries2\Fries2\obj\Release\Fries2.Properties.Resources.resources
+C:\Users\Edwin\documents\visual studio 2015\Projects\Fries2\Fries2\obj\Release\Fries2.csproj.GenerateResource.Cache
+C:\Users\Edwin\documents\visual studio 2015\Projects\Fries2\Fries2\obj\Release\Fries2.exe
+C:\Users\Edwin\documents\visual studio 2015\Projects\Fries2\Fries2\obj\Release\Fries2.pdb
+C:\Users\Edwin\documents\visual studio 2015\Projects\Fries2\Fries2\obj\Release\Fries2.csprojResolveAssemblyReference.cache
+C:\Users\Edwin\documents\visual studio 2015\Projects\Fries2\Fries2\obj\Release\EPrime.EPrime.resources
