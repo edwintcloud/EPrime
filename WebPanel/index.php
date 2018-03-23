@@ -37,7 +37,7 @@ header('Location: tickets.php');
             {
             $("body").hide();
 		setTimeout(function(){
-       window.location='tickets';
+       window.location='tickets.php';
     }, 500);
 
             }

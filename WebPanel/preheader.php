@@ -1,14 +1,14 @@
 <?php
-
+	include("config.php");
 	/* you SHOULD edit the database details below; fill in your database info */
 
 	#this is the info for your database connection
     ####################################################################################
     ##
-	$MYSQL_HOST  = "eprime.duckdns.org";
-	$MYSQL_LOGIN = "admin";
-	$MYSQL_PASS  = "admin123";
-	$MYSQL_DB    = "eprime";
+	$MYSQL_HOST  = DB_SERVER;
+	$MYSQL_LOGIN = DB_USERNAME;
+	$MYSQL_PASS  = DB_PASSWORD;
+	$MYSQL_DB    = DB_DATABASE;
 	##
 	$LOCAL_JS    = TRUE; // FALSE for inclusion of remote js files
     ##

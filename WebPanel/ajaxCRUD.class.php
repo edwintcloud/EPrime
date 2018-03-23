@@ -48,9 +48,9 @@
 		if ($ajaxAction != ""){
 
 			# these lines make sure caching do not cause ajax saving/displaying issues
-			header("Cache-Control: no-cache, must-revalidate"); //this is why ajaxCRUD.class.php must be before any other headers (html) are outputted
+			#header("Cache-Control: no-cache, must-revalidate"); //this is why ajaxCRUD.class.php must be before any other headers (html) are outputted
 			# a date in the past
-			header("Expires: Mon, 26 Jul 1997 05:00:00 GMT");
+			#header("Expires: Mon, 26 Jul 1997 05:00:00 GMT");
 
 			$table		= isset($_REQUEST["table"]) ? $_REQUEST["table"] : "";
 			$pk			= isset($_REQUEST["pk"]) ? trim($_REQUEST["pk"]) : "";
@@ -291,7 +291,7 @@ class ajaxCRUD{
     var $emptyTableMessage;
 
 	/* these default to english words (e.g. "Add", "Delete" below); but can be
-	   changed by setting them via $obj->addText = "Añadir"
+	   changed by setting them via $obj->addText = "Aï¿½adir"
 	*/
 	var $addText, $deleteText, $cancelText, $actionText, $fileDeleteText, $fileEditText; //text values for buttons and other table text
 	var $addButtonText; //if you want to replace the entire add button text with a phrase or other text. Added in 8.81
