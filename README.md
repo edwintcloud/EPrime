@@ -13,11 +13,10 @@ The program is located in the `Release` folder. The Web administration panel is 
 1. Open `Resources\db.txt` file and change variables to match your MySQL configuration.
 
 ## Program
-![alt text](./demo_images/program/main.PNG "Main Window")
-
+![alt text](./demo_images/program/main.PNG "Main Window")   
 ![alt text](./demo_images/program/administration.PNG "Administration Window")
 
 ## WebPanel
-![alt text](./demo_images/web_panel/editbuttons.PNG "Edit Buttons")
-
-![alt text](./demo_images/web_panel/login.PNG "Ajax Login")   ![alt text](./demo_images/web_panel/search.PNG "Ajax Search / Different User Levels")
+![alt text](./demo_images/web_panel/editbuttons.PNG "Edit Buttons")   
+![alt text](./demo_images/web_panel/login.PNG "Ajax Login")   
+![alt text](./demo_images/web_panel/search.PNG "Ajax Search / Different User Levels")
